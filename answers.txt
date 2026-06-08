@@ -6,3 +6,9 @@ collaborating with multiple people , creating new branches, maintaining a histor
 Q2: What field could data science be applied to? Give an example
 
 Data science can be applied to healthcare. For example, using health records of high-risk patients allow us to predict patient readmission rates and provide preventative care.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new commit that preserves the history of both branches, showing when branches diverged and merged. Rebasing rewrites commit history by 
+applying commits from one branch onto another linearly, creating a cleaner history but changing commit SHAs. Merging is safer for shared branches; rebasing is better for 
+local feature branches before merging.
