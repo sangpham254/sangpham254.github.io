@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We might use Git in order to be able to back up our work in case anything happens to our device, meaning that we will be able to recover it. Git also allows for 
+collaborating with multiple people , creating new branches, maintaining a history which allows us to revert to past versions of code, and more.
